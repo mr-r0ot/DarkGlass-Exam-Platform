@@ -1,0 +1,45 @@
+[
+    {
+      "examType": "english",
+      "question": "What is the capital of England?",
+      "options": ["London", "Manchester", "Birmingham", "Liverpool"],
+      "correctAnswer": "London",
+      "level": "normal"
+    },
+    {
+      "examType": "english",
+      "question": "Select the correct spelling:",
+      "options": ["Accomodate", "Accommodate", "Acommodate", "Accomadate"],
+      "correctAnswer": "Accommodate",
+      "level": "medium"
+    },
+    {
+      "examType": "english",
+      "question": "Identify the correct grammar structure:",
+      "options": ["I has been", "I have been", "I am been", "I be"],
+      "correctAnswer": "I have been",
+      "level": "advanced"
+    },
+    {
+      "examType": "spanish",
+      "question": "¿Cuál es la capital de España?",
+      "options": ["Madrid", "Barcelona", "Sevilla", "Valencia"],
+      "correctAnswer": "Madrid",
+      "level": "normal"
+    },
+    {
+      "examType": "spanish",
+      "question": "Seleccione la opción correcta:",
+      "options": ["Exito", "Éxito", "Exíto", "Exicto"],
+      "correctAnswer": "Éxito",
+      "level": "medium"
+    },
+    {
+      "examType": "spanish",
+      "question": "Identifica la estructura gramatical correcta:",
+      "options": ["Yo ha ido", "Yo he ido", "Yo ido", "Yo ir"],
+      "correctAnswer": "Yo he ido",
+      "level": "advanced"
+    }
+  ]
+  
